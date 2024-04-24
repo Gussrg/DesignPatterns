@@ -1,0 +1,8 @@
+1)Qual “Design Pattern” deveria ser usado para resolver este problema? 
+  Singleton 
+
+2)Qual propósito deste Pattern? 
+  Impedir que mais de uma instancia de uma classe seja criada 
+
+3)O que é “lazy initialization”? 
+  É quando a instancia é criada apenas quando for chamada a primeira vez 
