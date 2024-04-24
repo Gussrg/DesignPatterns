@@ -4,10 +4,19 @@ public class Fila {
     private Fila() {
     }
 
-    public static Fila getInstance(){
+    public static Fila getInstancia(){
         if(instancia == null){
             instancia = new Fila();
         }
         return instancia;
+    }
+    public void ImprimeDocumento(){
+        
+    }
+    public void RemoveDocumento(){
+        
+    }
+    public void RemoveTodosDocumento(){
+        
     }
 }
